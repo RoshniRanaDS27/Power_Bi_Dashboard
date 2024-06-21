@@ -1,4 +1,8 @@
 # Fraud Detection Power-BI Dashboard
+
+![image](https://github.com/RoshniRanaDS/Power_Bi_Dashboard/assets/161755928/6d6c8ebe-8309-4d1d-83e8-9175852c6c9e) 
+![image](https://github.com/RoshniRanaDS/Power_Bi_Dashboard/assets/161755928/680bcf3c-1ad3-4dfa-a27f-dd97beebc450)
+
 # Navigation 
 ### Menu open 
 ![image](https://github.com/RoshniRanaDS/Power_Bi_Dashboard/assets/161755928/ce5d2f3b-9791-45d9-a2e8-a3318f426c72)
