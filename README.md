@@ -3,6 +3,9 @@
 ### Published Dashboard Link:  
 https://app.powerbi.com/view?r=eyJrIjoiZGI1ODBjZTctMzBkMC00ZTViLWI0ZTMtNjdjNjk5ZTQ2Y2Y5IiwidCI6IjU2Y2I4MTQ3LTZlNTktNDhhZC05MWI4LTdmZTdlYmU5Y2VkOCJ9&pageName=ReportSection
 #
+#Dashboard naviganition Demo:
+
+#
 ![image](https://github.com/RoshniRanaDS/Power_Bi_Dashboard/assets/161755928/6d6c8ebe-8309-4d1d-83e8-9175852c6c9e) 
 ![image](https://github.com/RoshniRanaDS/Power_Bi_Dashboard/assets/161755928/680bcf3c-1ad3-4dfa-a27f-dd97beebc450)
 
